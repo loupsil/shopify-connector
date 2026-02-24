@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="dasolo_shopify_connector.ShopifyConnectorAction">
+        <div class="dasolo_shopify_connector_container">
+            <iframe
+                t-att-src="iframeSrc"
+                class="dasolo_shopify_connector_iframe"
+                allow="clipboard-read; clipboard-write"
+            />
+        </div>
+    </t>
+</templates>

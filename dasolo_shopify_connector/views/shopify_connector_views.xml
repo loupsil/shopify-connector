@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="action_shopify_connector" model="ir.actions.client">
+        <field name="name">Shopify Connector</field>
+        <field name="tag">dasolo_shopify_connector_action</field>
+    </record>
+
+    <menuitem
+        id="menu_shopify_connector_root"
+        name="Shopify"
+        action="action_shopify_connector"
+        web_icon="dasolo_shopify_connector,static/description/icon.png"
+        sequence="100"
+    />
+</odoo>
