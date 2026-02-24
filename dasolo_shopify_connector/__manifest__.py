@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Dasolo Shopify Connector',
-    'version': '19.0.1.0.0',
+    'version': '17.0.1.0.0',
     'category': 'Sales',
     'summary': 'Connect your Shopify store with Odoo seamlessly',
     'description': """
