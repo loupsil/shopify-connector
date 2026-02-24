@@ -21,7 +21,7 @@ For more information, visit https://www.dasolo.ai/odoo-shopify-connector
     """,
     'author': 'Dasolo',
     'website': 'https://www.dasolo.ai/',
-    'license': 'LGPL-3',
+    'license': 'Other proprietary',
     'depends': ['base', 'web'],
     'data': [
         'views/shopify_connector_views.xml',
