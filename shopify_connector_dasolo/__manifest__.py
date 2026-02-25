@@ -28,9 +28,9 @@ For more information, visit https://www.dasolo.ai/odoo-shopify-connector
     ],
     'assets': {
         'web.assets_backend': [
-            'dasolo_shopify_connector/static/src/css/shopify_connector.css',
-            'dasolo_shopify_connector/static/src/js/shopify_connector.js',
-            'dasolo_shopify_connector/static/src/xml/shopify_connector.xml',
+            'shopify_connector_dasolo/static/src/css/shopify_connector.css',
+            'shopify_connector_dasolo/static/src/js/shopify_connector.js',
+            'shopify_connector_dasolo/static/src/xml/shopify_connector.xml',
         ],
     },
     'images': ['static/description/banner.png'],

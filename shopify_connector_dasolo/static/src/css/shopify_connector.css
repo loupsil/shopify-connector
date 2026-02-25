@@ -1,10 +1,10 @@
-.dasolo_shopify_connector_container {
+.shopify_connector_dasolo_container {
     width: 100%;
     height: 100%;
     position: relative;
 }
 
-.dasolo_shopify_connector_iframe {
+.shopify_connector_dasolo_iframe {
     width: 100%;
     height: 100%;
     border: none;
