@@ -2,14 +2,14 @@
 <odoo>
     <record id="action_shopify_connector" model="ir.actions.client">
         <field name="name">Shopify Connector</field>
-        <field name="tag">dasolo_shopify_connector_action</field>
+        <field name="tag">shopify_connector_dasolo_action</field>
     </record>
 
     <menuitem
         id="menu_shopify_connector_root"
         name="Shopify"
         action="action_shopify_connector"
-        web_icon="dasolo_shopify_connector,static/description/icon.png"
+        web_icon="shopify_connector_dasolo,static/description/icon.png"
         sequence="100"
     />
 </odoo>
