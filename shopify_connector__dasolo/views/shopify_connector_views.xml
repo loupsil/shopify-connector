@@ -9,11 +9,11 @@
         id="menu_shopify_connector_root"
         name="Shopify"
         action="action_shopify_connector"
-        web_icon="shopify_connector_dasolo,static/description/icon.png"
+        web_icon="shopify_connector__dasolo,static/description/icon.png"
         sequence="100"
     />
 
     <record id="menu_shopify_connector_root" model="ir.ui.menu">
-        <field name="web_icon_data" type="base64" file="shopify_connector_dasolo/static/description/icon.png"/>
+        <field name="web_icon_data" type="base64" file="shopify_connector__dasolo/static/description/icon.png"/>
     </record>
 </odoo>
